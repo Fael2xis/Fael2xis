@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil🖤      
 
-Meu nome Rafael Margarido 👨‍🦱
+Meu nome é **Rafael** **Margarido** 👨‍🦱
 
 -Estou estudando na Alura 🏫
 -Estou me desenvolvendo na linguagem JavaScript 💻
